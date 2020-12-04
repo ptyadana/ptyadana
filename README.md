@@ -8,12 +8,11 @@ I also love working with different technologies & platforms and my current favor
 - :heart: Python
 - :heart: Tableau
 
-<p><a href="https://www.linkedin.com/in/phonethiriyadana"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a></p>
-
 
 #### 📬 Find me at
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/ptyadana/)](https://github.com/ptyadana) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phonethiriyadana)](https://www.linkedin.com/in/phonethiriyadana)
-[![Tableau Badge](http://img.shields.io/badge/-Tableau-blue?style=flat-square&logo=tableau&logoColor=white&link=https://public.tableau.com/profile/phonethiriyadana#!/)](https://public.tableau.com/profile/phonethiriyadana#!/)
+[![Tableau Badge](http://img.shields.io/badge/-Tableau-orange?style=flat-square&logo=tableau&logoColor=white&link=https://public.tableau.com/profile/phonethiriyadana#!/)](https://public.tableau.com/profile/phonethiriyadana#!/)
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/ptyadana/)](https://github.com/ptyadana) 
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ptyadana)
