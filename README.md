@@ -18,9 +18,4 @@ I also love working with different technologies & platforms and my current favor
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ptyadana&layout=compact)](https://github.com/ptyadana/github-readme-stats)
 
-[![Data Science & Machine Learing Projects Dojo](https://github-readme-stats.vercel.app/api/pin/?username=ptyadana&repo=Data-Science-and-Machine-Learning-Projects-Dojo)](https://github.com/ptyadana/Data-Science-and-Machine-Learning-Projects-Dojo)
-
-[![Data Analysis & Visualization Projects](https://github-readme-stats.vercel.app/api/pin/?username=ptyadana&repo=SQL-Data-Analysis-and-Visualization-Projects)](https://github.com/ptyadana/SQL-Data-Analysis-and-Visualization-Projects)
-
-
 ![Profile Views](https://komarev.com/ghpvc/?username=ptyadana)
