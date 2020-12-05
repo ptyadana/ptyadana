@@ -15,6 +15,10 @@ I also love working with different technologies & platforms and my current favor
 [![Tableau Badge](http://img.shields.io/badge/-Tableau-orange?style=flat-square&logo=tableau&logoColor=white&link=https://public.tableau.com/profile/phonethiriyadana#!/)](https://public.tableau.com/profile/phonethiriyadana#!/)
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/ptyadana/)](https://github.com/ptyadana) 
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ptyadana&layout=compact)](https://github.com/ptyadana/github-readme-stats)
+
+[![Data Science & Machine Learing Projects Dojo](https://github-readme-stats.vercel.app/api/pin/?username=ptyadana&repo=Data-Science-and-Machine-Learning-Projects-Dojo)](https://github.com/ptyadana/Data-Science-and-Machine-Learning-Projects-Dojo)
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ptyadana)
