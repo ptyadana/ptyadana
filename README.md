@@ -14,7 +14,7 @@ I also love working with different technologies & platforms and my current favor
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phonethiriyadana)](https://www.linkedin.com/in/phonethiriyadana)
 [![Tableau Badge](http://img.shields.io/badge/-Tableau-orange?style=flat-square&logo=tableau&logoColor=white&link=https://public.tableau.com/profile/phonethiriyadana#!/)](https://public.tableau.com/profile/phonethiriyadana#!/)
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/ptyadana/)](https://github.com/ptyadana) 
-[!Kaggle Badge](https://img.shields.io/badge/-kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/phonethiriyadana)
+[![Kaggle Badge](https://img.shields.io/badge/-kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/phonethiriyadana)](https://www.kaggle.com/phonethiriyadana) 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ptyadana&layout=compact)](https://github.com/ptyadana/github-readme-stats)
